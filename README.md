@@ -81,7 +81,8 @@ Developed by: RegisterNumber:*/
 Half_adder
 ![Screenshot 2024-04-04 101940](https://github.com/VincyJovitha01/HALF_ADDER_SUBTRACTOR/assets/147121113/1d53b7f7-c6fe-46bb-8d96-eee1361e0ff1)
 Half_subtractor
-![Screenshot 2024-04-04 101940](https://github.com/VincyJovitha01/HALF_ADDER_SUBTRACTOR/assets/147121113/7c57e754-0136-45c0-95c9-f6852f50d1c7)
+![Screenshot 2024-04-04 102644](https://github.com/VincyJovitha01/HALF_ADDER_SUBTRACTOR/assets/147121113/713c5eda-05cd-4832-8c77-23435448aad5)
+
 
 
 **Result:**
